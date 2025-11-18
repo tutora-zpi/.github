@@ -37,3 +37,6 @@ docs/             - Repository containing all technical documentation, diagrams 
 - Secure authentication (Google SSO)
 - PWA support for mobile & desktop
 - Fully modular microservices architecture
+
+<br><br><br>
+_🤝 App icon: https://uxwing.com/e-learning-icon/_
